@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.7"
-dependencies = []
+dependencies = [
+    "autointent @ git+ssh://git@github.com/deeppavlov/AutoIntent.git@my-fix-branch"
+]

@@ -1,0 +1,1 @@
+autointent@ git+ssh://git@github.com/deeppavlov/AutoIntent.git@my-fix-branch

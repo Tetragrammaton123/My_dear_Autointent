@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+my_dear_autointent.egg-info/PKG-INFO
+my_dear_autointent.egg-info/SOURCES.txt
+my_dear_autointent.egg-info/dependency_links.txt
+my_dear_autointent.egg-info/requires.txt
+my_dear_autointent.egg-info/top_level.txt
